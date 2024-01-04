@@ -1,6 +1,6 @@
 # LMS400 Controller
 
-Developed as an engineering thesis project in 2019/20, this repository holds the source code for the LMS400 Controller. Interface with the LMS400 laser scanner, perform scans, and process data.
+Developed as a part of the Automation & Robotics studies at Wrocław University of Science and Technology. This repository contains the source code for the Sick LMS400 Controller. It was created as an engineering thesis project with a focus on interfacing with the LMS400 laser scanner, performing scans, and processing data.
 
 ## Features
 
