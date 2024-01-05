@@ -11,7 +11,7 @@ Developed as a part of the Automation & Robotics studies at Wrocław University 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/LMS400-controller.git`
+1. Clone the repository: `git clone https://github.com/janekluczka/LMS400-controller.git`
 2. Explore the codebase and understand the functionality.
 3. Customize and extend the controller to suit your needs.
 
