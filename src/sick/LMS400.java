@@ -357,7 +357,6 @@ public class LMS400 extends Thread {
         for (String stringDatum : stringData) {
             processStringData(stringDatum);
         }
-
     }
 
     /**
@@ -446,8 +445,9 @@ public class LMS400 extends Thread {
         int temp2 = receivedData.charAt(currentIndex + 1);
         int distance = temp2 * 256 + temp1;
 
-        if (distance > 3000 || distance < 700)
+        if (distance > 3000 || distance < 700) {
             distance = 0;
+        }
 
         return distance;
     }
